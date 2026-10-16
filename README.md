@@ -68,6 +68,48 @@ Este repositório representa um **projeto acadêmico para aprendizado e execuç�
 
 ---
 
+## Capturas de tela
+
+Confira as principais telas do EscolaConecta, desde o acesso até o histórico das reuniões escolares.
+
+### 1. Login
+
+Tela de autenticação para acesso ao sistema.
+
+![Tela de login do EscolaConecta](docs/capturas/1.png)
+
+### 2. Página principal
+
+Painel inicial com visão geral dos registros e reuniões.
+
+![Página principal do EscolaConecta](docs/capturas/2.png)
+
+### 3. Responsáveis
+
+Tela de cadastro e gerenciamento dos pais e responsáveis.
+
+![Tela de responsáveis do EscolaConecta](docs/capturas/3.png)
+
+### 4. Alunos
+
+Tela de cadastro e gerenciamento de alunos vinculados aos responsáveis.
+
+![Tela de alunos do EscolaConecta](docs/capturas/4.png)
+
+### 5. Agendamentos
+
+Tela para registrar e consultar agendamentos de reuniões escolares.
+
+![Tela de agendamentos do EscolaConecta](docs/capturas/5.png)
+
+### 6. Histórico
+
+Tela de histórico dos agendamentos registrados.
+
+![Tela de histórico do EscolaConecta](docs/capturas/6.png)
+
+---
+
 ## Como funciona?
 
 ```text
@@ -181,7 +223,14 @@ escola/
 ├── css/
 │   └── style.css                # Aparência das páginas
 ├── docs/
-│   └── Guia_de_Estudos_EscolaConecta.docx
+│   ├── Guia_de_Estudos_EscolaConecta.docx
+│   └── capturas/
+│       ├── 1.png                  # Login
+│       ├── 2.png                  # Página principal
+│       ├── 3.png                  # Responsáveis
+│       ├── 4.png                  # Alunos
+│       ├── 5.png                  # Agendamentos
+│       └── 6.png                  # Histórico
 ├── index.php                    # Redirecionamento inicial
 ├── login.php                    # Autenticação
 ├── logout.php                   # Encerramento da sessão
